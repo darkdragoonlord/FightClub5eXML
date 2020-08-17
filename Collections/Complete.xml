@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection>
     <!-- Core Rulebooks -->
-    <doc href="../FightClub5eXML/Sources/CoreRulebooks.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/CoreRulebooks.xml" />
     
     <!-- Supplements -->
-    <doc href="../FightClub5eXML/Sources/XanatharsGuideToEverything.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensTomeOfFoes.xml" />
-    <doc href="../FightClub5eXML/Sources/VolosGuideToMonsters.xml" />
-    <doc href="../FightClub5eXML/Sources/SwordCoastAdventurersGuide.xml" />
-    <doc href="../FightClub5eXML/Sources/GuildmastersGuideToRavnica.xml" />
-    <doc href="../FightClub5eXML/Sources/WayfindersGuideToEberron.xml" />
-    <doc href="../FightClub5eXML/Sources/EberronRisingFromTheLastWar.xml" />
-    <doc href="../FightClub5eXML/Sources/AcquisitionsIncorporated.xml" />
-    <doc href="../FightClub5eXML/Sources/ExplorersGuideToWildemount.xml" />
-    <doc href="../FightClub5eXML/Sources/MordenkainensFiendishFolio.xml" />
-    <doc href="../FightClub5eXML/Sources/TheTortlePackage.xml" />
-    <doc href="../FightClub5eXML/Sources/OneGrungAbove.xml" />
-    <doc href="../FightClub5eXML/Sources/MythicOdysseysOfTheros.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/XanatharsGuideToEverything.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/MordenkainensTomeOfFoes.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/VolosGuideToMonsters.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/SwordCoastAdventurersGuide.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/GuildmastersGuideToRavnica.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/WayfindersGuideToEberron.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/EberronRisingFromTheLastWar.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/AcquisitionsIncorporated.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/ExplorersGuideToWildemount.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/MordenkainensFiendishFolio.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/TheTortlePackage.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/OneGrungAbove.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/MythicOdysseysOfTheros.xml" />
     
     <!-- Adventures -->
-    <doc href="../FightClub5eXML/Sources/Adventures.xml" />
-    <doc href="../FightClub5eXML/Sources/BaldursGateDescentIntoAvernus.xml" />
-    <doc href="../FightClub5eXML/Sources/HuntForTheThesselhydra.xml" />
-    <doc href="../FightClub5eXML/Sources/InfernalMachineRebuild.xml" />
-    <doc href="../FightClub5eXML/Sources/LocathahRising.xml" />
-    <doc href="../FightClub5eXML/Sources/LostLaboratoryOfKwalish.xml" />
-    <doc href="../FightClub5eXML/Sources/DragonOfIcespirePeak.xml" />
-    <doc href="../FightClub5eXML/Sources/DivineContention.xml" />
-    <doc href="../FightClub5eXML/Sources/StormLordsWrath.xml" />
-    <doc href="../FightClub5eXML/Sources/SleepingDragonsWake.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/Adventures.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/BaldursGateDescentIntoAvernus.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/HuntForTheThesselhydra.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/InfernalMachineRebuild.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/LocathahRising.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/LostLaboratoryOfKwalish.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/DragonOfIcespirePeak.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/DivineContention.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/StormLordsWrath.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/SleepingDragonsWake.xml" />
     
     <!-- UnearthedArcana -->
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/UnearthedArcana.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2015-08-03_ModernMagic.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2017-01-09_Artificer.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2017-03-03_TheMysticClass.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2018-12-17_Sidekicks.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-08-15_BarbarianAndMonk.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-09-05_SorcererAndWarlock.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-09-18_BardAndPaladin.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-10-03_ClericDruidAndWizard.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-10-17_FighterRangerAndRogue.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-11-04_ClassFeatureVariants.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2019-11-25_FighterRogueAndWizard.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2020-01-14_2020SubclassesPart1.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2020-02-04_2020SubclassesPart2.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2020-02-24_2020SubclassesPart3.xml" />
-    <doc href="../FightClub5eXML/Sources/UnearthedArcana/2020-03-26_SpellsAndTattoos.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/UnearthedArcana.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2015-08-03_ModernMagic.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2017-01-09_Artificer.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2017-03-03_TheMysticClass.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2018-12-17_Sidekicks.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2019-08-15_BarbarianAndMonk.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2019-09-05_SorcererAndWarlock.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2019-09-18_BardAndPaladin.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2019-10-03_ClericDruidAndWizard.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2019-10-17_FighterRangerAndRogue.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2019-11-04_ClassFeatureVariants.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2019-11-25_FighterRogueAndWizard.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2020-01-14_2020SubclassesPart1.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2020-02-04_2020SubclassesPart2.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2020-02-24_2020SubclassesPart3.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/UnearthedArcana/2020-03-26_SpellsAndTattoos.xml" />
 
     <!-- Homebrew -->
-    <doc href="../FightClub5eXML/Sources/Homebrew.xml" />
-    <doc href="../FightClub5eXML/Sources/ThirdParty/TomeOfBeasts.xml" />
-    <doc href="../FightClub5eXML/Sources/ThirdParty/CreatureCodex.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/Homebrew.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/ThirdParty/TomeOfBeasts.xml" />
+    <doc href="https://github.com/darkdragoonlord/FightClub5eXML/Sources/ThirdParty/CreatureCodex.xml" />
     
 </collection>
